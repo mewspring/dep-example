@@ -1,0 +1,8 @@
+[[constraint]]
+  name = "github.com/dustin/go-humanize"
+  branch = "master"
+
+[prune]
+  unused-packages = true
+  non-go = true
+  go-tests = true
